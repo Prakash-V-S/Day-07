@@ -1,5 +1,5 @@
 
-//c) Print the following details name, capital, flag, using forEach function
+//C) Print the following details name, capital, flag, using forEach function
 
 let request = new XMLHttpRequest();
 request.open("GET", "https://restcountries.com/v3.1/all");
