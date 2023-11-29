@@ -1,5 +1,5 @@
 
-//D) Print the total population of countries using reduce function
+//d) Print the total population of countries using reduce function
 
 let request = new XMLHttpRequest();
 request.open("GET", "https://restcountries.com/v3.1/all");
