@@ -1,5 +1,5 @@
 
-//E) Print the country that uses US dollars as currency.
+//e) Print the country that uses US dollars as currency.
 
 let request = new XMLHttpRequest();
 request.open("GET", "https://restcountries.com/v3.1/all");
