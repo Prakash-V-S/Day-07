@@ -1,5 +1,5 @@
 
-    //b) Get all the countries with a population of less than 2 lakhs using Filter -----------------------------------
+//b) Get all the countries with a population of less than 2 lakhs using Filter -----------------------------------
 
 
 let request = new XMLHttpRequest();
